@@ -1,0 +1,188 @@
+{
+    "Header": {
+        "title": "Eastern Bird",
+        "paragraph": "Specialized in designing and manufacturing high-quality metal and steel furniture and more..."
+    },
+    "About": {
+        "paragraph": "Established in 1982 by Late Golak Chandra Sethi, Eastern Bird began its journey as a small manufacturing unit. Over the years, we have grown into a leading provider of metal and steel furniture and construction services, thanks to our commitment to excellence and innovation. Today, we are proud to carry on the founder’s vision under the leadership of his elder son, Anshuman Rashmi Sagar Sethi, serving diverse industries with cutting-edge solutions.",
+        "Why": [
+          {
+            "title": "Quality",
+            "body": "Every product we deliver is a symbol of our dedication to precision, durability, and design excellence."
+          },
+          {
+            "title": "Innovation",
+            "body": "We embrace modern technology and trends to create solutions that meet the evolving needs of our clients."
+          },
+          {
+            "title": "Customer Satisfaction",
+            "body": "Our success is built on ensuring our clients are satisfied with every product and service we provide. We strive to exceed expectations with every project."
+          },
+          {
+            "title": "Integrity",
+            "body": "Transparency and trust are at the heart of every relationship we build with our customers and partners."
+          }
+        ]
+    },
+    "Gallery": [
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/02-large.jpg",
+            "smallImage": "img/portfolio/02-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/03-large.jpg",
+            "smallImage": "img/portfolio/03-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/04-large.jpg",
+            "smallImage": "img/portfolio/04-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/05-large.jpg",
+            "smallImage": "img/portfolio/05-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/06-large.jpg",
+            "smallImage": "img/portfolio/06-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/07-large.jpg",
+            "smallImage": "img/portfolio/07-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/08-large.jpg",
+            "smallImage": "img/portfolio/08-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/09-large.jpg",
+            "smallImage": "img/portfolio/09-small.jpg"
+        }
+    ],
+    "Services": [
+        {
+            "icon": "fa fa-warehouse",
+            "name": "PEB Structures",
+            "text": "Industrial sheds, warehouses, office spaces, cottages, and more"
+        },
+        {
+            "icon": "fa fa-bridge",
+            "name": "Structural Engineering",
+            "text": "Specialized construction of foot overbridges, warehouses, and other large-scale structures"
+        },
+        {
+            "icon": "fa fa-user-tie",
+            "name": "Turnkey Projects",
+            "text": "From concept to completion, we handle all aspects of construction for our clients, ensuring a hassle-free experience"
+        }
+    ],
+    "Products": [
+        {
+            "icon": "fa fa-solid fa-chair",
+            "name": "Residential Furniture",
+            "text": "Stylish and robust furniture for homes, including beds, chairs, tables, and storage solutions."
+        },
+        {
+            "icon": "fa fa-industry",
+            "name": "Commercial Furniture",
+            "text": "High-quality furniture for offices, shops, and other commercial spaces"
+        },
+        {
+            "icon": "fa fa-gem",
+            "name": "Luxury Furniture",
+            "text": " Custom metal and steel furniture designed to add a touch of elegance to your living or working space"
+        },
+        {
+            "icon": "fa fa-bed",
+            "name": "Hostel Furniture",
+            "text": "Durable, long-lasting metal beds and storage solutions for hostels and dormitories"
+        },
+        {
+            "icon": "fa fa-building-columns",
+            "name": "School and College Furniture",
+            "text": "Functional and space-efficient solutions, including compact desk-cum-bench sets, dual desks, and other school essentials that meet the specific needs of educational institutions"
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "Late Golak Chandra Sethi",
+            "job": "Founder"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Anshuman Rashmisagar",
+            "job": "CEO"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Aisurya Jyotisagar",
+            "job": "CFO"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [
+        {},
+        {
+            "icon": "fa fa-solid fa-couch",
+            "title": "Metal Furniture",
+            "text": "High-quality metal and steel furniture."
+        },
+        {
+            "icon": "fa fa-solid fa-warehouse",
+            "title": "PEB Structures",
+            "text": "Durable & modern Pre-Engineered Building structures."
+        }
+    ]
+}
