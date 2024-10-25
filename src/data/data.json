@@ -26,49 +26,52 @@
     },
     "Gallery": [
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/01-large.jpg",
-            "smallImage": "img/portfolio/01-small.jpg"
+            "title": "Pre Enineered Building",
+            "path": "img/gallery/pre-engineered-buildings.jpg"
         },
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/02-large.jpg",
-            "smallImage": "img/portfolio/02-small.jpg"
+            "title": "Structural Engineering Solution",
+            "path": "img/gallery/structural-engineering.jpg"
         },
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/03-large.jpg",
-            "smallImage": "img/portfolio/03-small.jpg"
+            "title": "Single and Double Bed / Cot",
+            "path": "img/gallery/bed-got.jpg"
         },
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/04-large.jpg",
-            "smallImage": "img/portfolio/04-small.jpg"
+            "title": "Container",
+            "path": "img/gallery/container.jpg"
         },
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/05-large.jpg",
-            "smallImage": "img/portfolio/05-small.jpg"
+            "title": "Steel Almirah",
+            "path": "img/gallery/steel-almirah.jpg"
         },
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/06-large.jpg",
-            "smallImage": "img/portfolio/06-small.jpg"
+            "title": "Aluminium and Steel Furniture",
+            "path": "img/gallery/steel-aluminium-furniture.jpg"
         },
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/07-large.jpg",
-            "smallImage": "img/portfolio/07-small.jpg"
+            "title": "Butt Hinges",
+            "path": "img/gallery/butt-hinges.jpg"
         },
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/08-large.jpg",
-            "smallImage": "img/portfolio/08-small.jpg"
+            "title": "Grills, Ladder and Gates",
+            "path": "img/gallery/metal-grill-door.jpg"
         },
         {
-            "title": "Project Title",
-            "largeImage": "img/portfolio/09-large.jpg",
-            "smallImage": "img/portfolio/09-small.jpg"
+            "title": "Steel Shelving and Cabiets",
+            "path": "img/gallery/steel-shelves.jpg"
+        },
+        {
+            "title": "Office Furniture",
+            "path": "img/gallery/office-furniture.jpg"
+        },
+        {
+            "title": "Compact Desk-cum-Bench",
+            "path": "img/gallery/desk-bench.jpg"
+        },
+        {
+            "title": "Handels and Steel Oxidised AL Drops",
+            "path": "img/gallery/mild-steel-aldrop.jpg"
         }
     ],
     "Services": [
@@ -154,20 +157,21 @@
             "job": "Founder"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Anshuman Rashmisagar",
-            "job": "CEO"
+            "img": "img/team/Anshuman.png",
+            "name": "Anshuman Rashmi Sagar",
+            "job": "Proprietor"
         },
         {
-            "img": "img/team/03.jpg",
-            "name": "Aisurya Jyotisagar",
-            "job": "CFO"
+            "img": "img/team/Aysurya.png",
+            "name": "Aysurya Jyoti Sagar",
+            "job": "Partner"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "New Industrial Estate, Jagatpur Industrial Estate, Cuttack, Jagatpur, Odisha 754021 ",
+        "phone": "+91-9861885000",
+        "phoneAlt": "+91-9776048740",
+        "email": "easternbird1982@gmail.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
