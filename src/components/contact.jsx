@@ -71,10 +71,28 @@ export const Contact = (props) => {
                                 <span>
                                     <i className='fa fa-phone'></i> Phone
                                 </span>{' '}
-                                {props.data ? props.data.phone : 'loading'}
+                                {props.data ? (
+                                    <a
+                                        className='color-white'
+                                        href='tel:${props.data.phone}'
+                                    >
+                                        {props.data.phone}
+                                    </a>
+                                ) : (
+                                    'loading'
+                                )}
                             </p>
                             <p>
-                                {props.data ? props.data.phoneAlt : 'loading'}
+                                {props.data ? (
+                                    <a
+                                        className='color-white'
+                                        href='tel:${props.data.phoneAlt}'
+                                    >
+                                        {props.data.phoneAlt}
+                                    </a>
+                                ) : (
+                                    'loading'
+                                )}
                             </p>
                         </div>
                         <div className='contact-item'>
@@ -82,7 +100,16 @@ export const Contact = (props) => {
                                 <span>
                                     <i className='fa fa-envelope-o'></i> Email
                                 </span>{' '}
-                                {props.data ? props.data.email : 'loading'}
+                                {props.data ? (
+                                    <a
+                                        className='color-white underline'
+                                        href='mailto: ${props.data.email}'
+                                    >
+                                        {props.data.email}
+                                    </a>
+                                ) : (
+                                    'loading'
+                                )}
                             </p>
                         </div>
                     </div>

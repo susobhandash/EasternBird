@@ -770,3 +770,15 @@ label {
       transform: translateX(0%);
   }
 }
+
+.color-white {
+  color: #fff;
+}
+
+.color-white:hover {
+  color: #f7f7f7;
+}
+
+.underline {
+  text-decoration: underline;
+}
