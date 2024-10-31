@@ -101,6 +101,8 @@ export const Contact = (props) => {
                                     </li>
                                     <li>
                                         <a
+                                            target='_blank'
+                                            rel='noreferrer'
                                             href="https://wa.me/9861885000?text=I'm%20interested%20forr%20business%20discussion"
                                         >
                                             <i className='fa fa-whatsapp'></i>
