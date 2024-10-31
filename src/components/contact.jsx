@@ -103,7 +103,7 @@ export const Contact = (props) => {
                                         <a
                                             target='_blank'
                                             rel='noreferrer'
-                                            href="https://wa.me/9776048740?text=I'm%20interested%20forr%20business%20discussion"
+                                            href="https://wa.me/9776048740?text=I'm%20interested%20for%20business%20discussion"
                                         >
                                             <i className='fa fa-whatsapp'></i>
                                         </a>
