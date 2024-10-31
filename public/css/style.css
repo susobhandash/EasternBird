@@ -449,6 +449,17 @@ header .intro-text {
   padding: 100px 0;
   background: #f6f6f6;
 }
+#testimonials .marquee {
+  display: flex;
+  white-space: nowrap;
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+#testimonials .row-flex {
+  display: flex;
+  align-items: center;
+  animation: scroll-left 20s linear infinite;
+}
 #testimonials i {
   color: #e6e6e6;
   font-size: 32px;
@@ -457,10 +468,15 @@ header .intro-text {
 .testimonial {
   position: relative;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
 }
 .testimonial-image {
-  float: left;
-  margin-right: 15px;
+  margin-bottom: 10px;
+  /* float: left;
+  margin-right: 15px; */
 }
 .testimonial-image,
 .testimonial-image img {
@@ -472,6 +488,7 @@ header .intro-text {
 .testimonial-content {
   position: relative;
   overflow: hidden;
+  display: block;
 }
 .testimonial-content p {
   margin-bottom: 0;
@@ -479,7 +496,6 @@ header .intro-text {
   font-style: italic;
 }
 .testimonial-meta {
-  margin-top: 10px;
   font-size: 15px;
   font-weight: 600;
   color: #666;
@@ -490,6 +506,9 @@ header .intro-text {
 }
 #team h4 {
   margin: 5px 0;
+}
+.team {
+  flex: 1 1 300px;
 }
 #team .team-img {
   width: 240px;
@@ -673,6 +692,10 @@ label {
   justify-content: space-evenly;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -727,4 +750,23 @@ label {
 .map-container {
   border-radius: 20px;
   overflow: hidden;
+}
+
+/* Setting the Animation using Keyframes */
+@keyframes scroll-left {
+  0% {
+      transform: translateX(0%);
+  }
+  100% {
+      transform: translateX(-100%);
+  }
+}
+
+@keyframes scroll-right {
+  0% {
+      transform: translateX(-100%);
+  }
+  100% {
+      transform: translateX(0%);
+  }
 }

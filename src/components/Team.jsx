@@ -10,7 +10,7 @@ export const Team = (props) => {
             Meet the team behind Eastern Bird.
           </p>
         </div>
-        <div id="row" className="d-flex justify-evenly flex-row">
+        <div id="row" className="d-flex justify-evenly flex-row flex-wrap">
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="team">

@@ -92,55 +92,24 @@ export const Contact = (props) => {
                                 <ul>
                                     <li>
                                         <a
-                                            href={
-                                                props.data
-                                                    ? props.data.facebook
-                                                    : '/'
-                                            }
+                                            target='_blank'
+                                            rel='noreferrer'
+                                            href='https://www.facebook.com/profile.php?id=61560824570426'
                                         >
                                             <i className='fa fa-facebook'></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a
-                                            href={
-                                                props.data
-                                                    ? props.data.twitter
-                                                    : '/'
-                                            }
+                                            href="https://wa.me/9861885000?text=I'm%20interested%20forr%20business%20discussion"
                                         >
-                                            <i className='fa fa-twitter'></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            href={
-                                                props.data
-                                                    ? props.data.youtube
-                                                    : '/'
-                                            }
-                                        >
-                                            <i className='fa fa-youtube'></i>
+                                            <i className='fa fa-whatsapp'></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div id='footer'>
-                <div className='container text-center'>
-                    <p>
-                        &copy; 2023 Issaaf Kattan React Land Page Template.
-                        Design by{' '}
-                        <a
-                            href='http://www.templatewire.com'
-                            rel='nofollow'
-                        >
-                            TemplateWire
-                        </a>
-                    </p>
                 </div>
             </div>
         </div>
