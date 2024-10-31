@@ -772,13 +772,13 @@ label {
 }
 
 .color-white {
-  color: #fff;
+  color: #fff !important;
 }
 
 .color-white:hover {
-  color: #f7f7f7;
+  color: #f7f7f7 !important;
 }
 
 .underline {
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
