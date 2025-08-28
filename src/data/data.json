@@ -6,22 +6,22 @@
     "About": {
         "paragraph": "Established in 1982 by Late Golak Chandra Sethi, Eastern Bird began its journey as a small manufacturing unit. Over the years, we have grown into a leading provider of metal and steel furniture and construction services, thanks to our commitment to excellence and innovation. Today, we are proud to carry on the founder’s vision under the leadership of his elder son, Anshuman Rashmi Sagar Sethi, serving diverse industries with cutting-edge solutions.",
         "Why": [
-          {
-            "title": "Quality",
-            "body": "Every product we deliver is a symbol of our dedication to precision, durability, and design excellence."
-          },
-          {
-            "title": "Innovation",
-            "body": "We embrace modern technology and trends to create solutions that meet the evolving needs of our clients."
-          },
-          {
-            "title": "Customer Satisfaction",
-            "body": "Our success is built on ensuring our clients are satisfied with every product and service we provide. We strive to exceed expectations with every project."
-          },
-          {
-            "title": "Integrity",
-            "body": "Transparency and trust are at the heart of every relationship we build with our customers and partners."
-          }
+            {
+                "title": "Quality",
+                "body": "Every product we deliver is a symbol of our dedication to precision, durability, and design excellence."
+            },
+            {
+                "title": "Innovation",
+                "body": "We embrace modern technology and trends to create solutions that meet the evolving needs of our clients."
+            },
+            {
+                "title": "Customer Satisfaction",
+                "body": "Our success is built on ensuring our clients are satisfied with every product and service we provide. We strive to exceed expectations with every project."
+            },
+            {
+                "title": "Integrity",
+                "body": "Transparency and trust are at the heart of every relationship we build with our customers and partners."
+            }
         ]
     },
     "Gallery": [
@@ -133,7 +133,43 @@
         },
         {
             "img": "img/testimonials/pngegg.png",
-            "name": "Governmnt of Odisha"
+            "name": "Government of Odisha"
+        },
+        {
+            "img": "img/testimonials/pngegg.png",
+            "name": "ST & SC Development, Minorities & Backward Classes Welfare Department, Government of Odisha"
+        },
+        {
+            "img": "img/testimonials/pngegg.png",
+            "name": "Panchayati Raj & Drinking Water Department, Government of Odisha"
+        },
+        {
+            "img": "img/testimonials/pngegg.png",
+            "name": "Forest Environment and Climate Change Department, Government of Odisha"
+        },
+        {
+            "img": "img/testimonials/CMC_Logo.jpg",
+            "name": "Cuttack Municipal Corporation"
+        },
+        {
+            "img": "img/testimonials/BMC_logo.jpg",
+            "name": "Bhadrak Municipality"
+        },
+        {
+            "img": "img/testimonials/OSIC.jpg",
+            "name": "Odisha Small Industries Corporation Ltd."
+        },
+        {
+            "img": "img/testimonials/IDBI_Logo.png",
+            "name": "IDBI Bank"
+        },
+        {
+            "img": "img/testimonials/pngegg.png",
+            "name": "Department of School and Mass Education, Government of Odisha"
+        },
+        {
+            "img": "img/testimonials/pngegg.png",
+            "name": "Higher Education Department, Government of Odisha"
         },
         {
             "name": "Emporio Wheel"
@@ -163,7 +199,7 @@
         }
     ],
     "Contact": {
-        "address": "New Industrial Estate, Jagatpur Industrial Estate, Cuttack, Jagatpur, Odisha 754021 ",
+        "address": "Plot No: B/28, New Industrial Estate, Phase-2, Jagatpur, Cuttack, Odisha, 754021",
         "phone": "+91-9861885000",
         "phoneAlt": "+91-9776048740",
         "email": "easternbird1982@gmail.com",
@@ -171,6 +207,26 @@
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
+    "Licenses": [
+        {
+            "name": "PMT No",
+            "value": "150405242",
+            "date": "06/12/1982"
+        },
+        {
+            "name": "PMT No",
+            "value": "0121100348"
+        },
+        {
+            "name": "DEPM Registration No",
+            "value": "EPM-2021-0077",
+            "date": "28/04/2021"
+        },
+        {
+            "name": "GSTIN No",
+            "value": "21EUCPS0010N2ZW"
+        }
+    ],
     "Features": [
         {},
         {
