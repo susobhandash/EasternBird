@@ -118,6 +118,33 @@
             "text": "Functional and space-efficient solutions, including compact desk-cum-bench sets, dual desks, and other school essentials that meet the specific needs of educational institutions"
         }
     ],
+    "Certificates": [
+        {
+            "id": 1,
+            "src": "img/certificates/FINAL-EASTERN(BIFMA1).pdf",
+            "name": "Certificate of Compliance, BIFMA"
+        },
+        {
+            "id": 2,
+            "src": "img/certificates/FINAL-EASTERN(EMS).pdf",
+            "name": "Certificate of Registration, EMS"
+        },
+        {
+            "id": 3,
+            "src": "img/certificates/FINAL-EASTERN(GREENGUARD).pdf",
+            "name": "Certificate of Compliance, GreenGuard"
+        },
+        {
+            "id": 4,
+            "src": "img/certificates/FINAL-EASTERN(OHS).pdf",
+            "name": "ISO (OHS) Certification"
+        },
+        {
+            "id": 5,
+            "src": "img/certificates/FINAL-EASTERN(QMS).pdf",
+            "name": "ISO (QMS) Certification"
+        }
+    ],
     "Testimonials": [
         {
             "img": "img/testimonials/ppl.jpg",

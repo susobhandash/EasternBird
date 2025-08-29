@@ -666,36 +666,63 @@ label {
   color: #608dfd;
   background: #fff;
 }
-/* License Section */
-#license {
+/* License, Certificate Section */
+#license,
+#certificates {
   padding: 100px 0 60px;
   background: linear-gradient(to right, #8a55cf 0%, #5c7efb 100%);
   color: #fff;
 }
-#license h2 {
+#certificates {
+  background: #fff;
+}
+#license h2,
+#certificates h2 {
   color: #fff;
   margin-top: 10px;
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
-#license .section-title {
+#certificates h2 {
+  color: #333;
+}
+#license .section-title,
+#certificates .section-title {
   margin-bottom: 40px;
 }
-.licenses {
+.licenses,
+.certificates {
   display: flex;
   gap: 20px;
   padding-bottom: 20px;
   width: 100%;
   justify-content: space-between;
 }
+.certificates .certificate,
 .licenses .license {
   display: flex;
   gap: 5px;
   align-items: center;
   font-size: 17px;
-  font-family: "Lato", BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: "Lato", BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
+}
+.certificates .certificate a {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.certificates .certificate a i {
+  font-size: 50px;
+  color: #0175ca;
+}
+.certificates .certificate a span {
+  color: rgb(99 117 255);
+  font-family: "Raleway", BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  font-weight: 500;
 }
 .licenses .license > span:nth-child(1) {
   font-weight: 400;
@@ -731,11 +758,13 @@ label {
     min-width: 140px;
   }
 
-  .licenses {
+  .licenses,
+  .certificates {
     flex-direction: column;
   }
 
-  .licenses .license {
+  .licenses .license,
+  .certificates .certificate {
     flex-direction: column;
     font-size: 15px;
   }
