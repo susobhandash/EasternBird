@@ -132,19 +132,19 @@
             "name": "MG Motors"
         },
         {
-            "img": "img/testimonials/pngegg.png",
+            "img": "img/testimonials/OD_Gov_Black.png",
             "name": "Government of Odisha"
         },
         {
-            "img": "img/testimonials/pngegg.png",
+            "img": "img/testimonials/OD_Gov_Blue.png",
             "name": "ST & SC Development, Minorities & Backward Classes Welfare Department, Government of Odisha"
         },
         {
-            "img": "img/testimonials/pngegg.png",
+            "img": "img/testimonials/OD_Gov.png",
             "name": "Panchayati Raj & Drinking Water Department, Government of Odisha"
         },
         {
-            "img": "img/testimonials/pngegg.png",
+            "img": "img/testimonials/OD_Gov_Black.png",
             "name": "Forest Environment and Climate Change Department, Government of Odisha"
         },
         {
@@ -152,7 +152,7 @@
             "name": "Cuttack Municipal Corporation"
         },
         {
-            "img": "img/testimonials/BMC_logo.jpg",
+            "img": "img/testimonials/BMC_Logo.jpg",
             "name": "Bhadrak Municipality"
         },
         {
@@ -164,12 +164,20 @@
             "name": "IDBI Bank"
         },
         {
-            "img": "img/testimonials/pngegg.png",
+            "img": "img/testimonials/OD_Gov_Blue.png",
             "name": "Department of School and Mass Education, Government of Odisha"
         },
         {
-            "img": "img/testimonials/pngegg.png",
+            "img": "img/testimonials/OD_Gov_Black.png",
             "name": "Higher Education Department, Government of Odisha"
+        },
+        {
+            "img": "img/testimonials/OD_Gov.png",
+            "name": "Commissionerate of CT & GST, Government of Odisha"
+        },
+        {
+            "img": "img/testimonials/lrdx-brand-logo-dark.svg",
+            "name": "Land Rover Empreo Prestige, Cuttack"
         },
         {
             "name": "Emporio Wheel"

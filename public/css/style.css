@@ -466,6 +466,9 @@ header .intro-text {
   align-items: flex-start;
   animation: scroll-left 30s linear infinite;
 }
+#testimonials .row-flex:hover {
+  animation-play-state: paused;
+}
 #testimonials .col {
   min-width: 170px;
   display: flex;
